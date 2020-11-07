@@ -1,0 +1,9 @@
+name: Apricot
+main: io.github.itzjamez.apricot.Apricot
+version: 1.0.0
+api-version: 1.8
+author: ItZ_JameZ_
+commands:
+  apricot:
+    aliases: [apr]
+    permission: 'apricot.admin'
